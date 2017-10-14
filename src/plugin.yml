@@ -1,0 +1,13 @@
+name: IgnoreString
+version: 1.0
+author: cortstar
+main: ca.ualberta.cortland.ignoreString.ignoreString
+commands:
+  ignoreString:
+    description: Ignores a string regardless of who sent it.
+    usage: /ignoreString <stringToIgnore>
+  clearIgnoredStrings:
+    description: Clears all the ignored strings for that user
+    usage: /clearignoredstrings
+
+
